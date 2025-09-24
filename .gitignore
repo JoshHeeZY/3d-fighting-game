@@ -1,0 +1,33 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# IDE junk
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.pidb
+*.userprefs
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+
+# Keep these
+!Assets/**/*.meta
+!ProjectSettings/**
+!Packages/**
